@@ -25,6 +25,8 @@ namespace ProgrammingPOEPart1
 
         static void DisplayAsciiArt()
         {
+            Console.ForegroundColor = ConsoleColor.Cyan;
+
             string asciiArt = @"
      _____ _   _ _____ _____ _____ _____  _______     __
     |_   _| \ | |_   _|  ___|  ___|  ___|/  ___\ \   / /
@@ -111,6 +113,16 @@ namespace ProgrammingPOEPart1
         }
     }
 }
-//references
-//w3schools - https://www.w3schools.com/
-//geeksforgeeks - https://www.geeksforgeeks.org/
+//References
+
+//Author - W3schools
+//Date Accessed : 22 April 2025
+//URL: https://www.w3schools.com/
+
+//Author - GeeksforGeeks
+//Date Accessed : 22 April 2025 
+//URL : https://www.geeksforgeeks.org/
+
+//Author - JetBrains
+//Date Accessed : 22 April 2025
+//jetforbrain - https://www.jetbrains.com 
