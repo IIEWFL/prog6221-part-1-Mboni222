@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D11FAD47-9F12-4238-B64D-24A181BCFE74}</ProjectGuid>
+    <ProjectGuid>{6387ECA1-D6AE-42D9-B3B0-6A70012F930A}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>ProgrammingPOEPart1</RootNamespace>
     <AssemblyName>ProgrammingPOEPart1</AssemblyName>
@@ -44,7 +44,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="..\..\Documents\prog6221-part-1-Mboni222\ProgrammingPOEPartOne.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

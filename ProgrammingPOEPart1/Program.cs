@@ -83,10 +83,10 @@ namespace ProgrammingPOEPart1
             }
             SpeakAndPrint(response);
 
-            
+
         }
 
-    static void chatLoop()
+        static void chatLoop()
         {
             while (true)
             {
