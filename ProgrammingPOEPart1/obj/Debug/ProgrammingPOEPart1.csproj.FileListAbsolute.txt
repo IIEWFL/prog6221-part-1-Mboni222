@@ -1,0 +1,7 @@
+D:\mboni\ProgrammingPOEPart1\ProgrammingPOEPart1\bin\Debug\ProgrammingPOEPart1.exe.config
+D:\mboni\ProgrammingPOEPart1\ProgrammingPOEPart1\bin\Debug\ProgrammingPOEPart1.exe
+D:\mboni\ProgrammingPOEPart1\ProgrammingPOEPart1\bin\Debug\ProgrammingPOEPart1.pdb
+D:\mboni\ProgrammingPOEPart1\ProgrammingPOEPart1\obj\Debug\ProgrammingPOEPart1.csproj.AssemblyReference.cache
+D:\mboni\ProgrammingPOEPart1\ProgrammingPOEPart1\obj\Debug\ProgrammingPOEPart1.csproj.CoreCompileInputs.cache
+D:\mboni\ProgrammingPOEPart1\ProgrammingPOEPart1\obj\Debug\ProgrammingPOEPart1.exe
+D:\mboni\ProgrammingPOEPart1\ProgrammingPOEPart1\obj\Debug\ProgrammingPOEPart1.pdb
